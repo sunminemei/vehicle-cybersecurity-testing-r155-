@@ -53,7 +53,7 @@ version: 1.0.0
 - 硬件版本：
 - 软件版本：
 
-用户: 样品名称=XX车型, 型号=T01, 企业=XX汽车, 地点=天津, HW=1.0, SW=2.0
+用户: 样品名称=XX车型, 型号=XX, 企业=XX汽车, 地点=XX, HW=XX, SW=XX
 
 助手: 已记录。请选择测试域：
 [1] 接口安全 [2] CAN总线 [3] WiFi [4] 蓝牙 [5] 射频 [6] GPS [7] USB存储 [8] 升级包 [9] Android APP [10] iOS APP [11] 生成报告
@@ -67,7 +67,7 @@ version: 1.0.0
 用户: 1
 
 助手: === ECU扫描 ===
-测试编号: MILA-vehicle-PT-001
+测试编号: XXXX
 
 操作步骤：
 1. CAN_H接OBD Pin6, CAN_L接Pin14, GND接Pin4/5
@@ -91,7 +91,7 @@ version: 1.0.0
 
 每个测试用例记录以下字段：
 ```
-测试编号:   MILA-vehicle-PT-XXX
+测试编号:   vehicle-XXX
 检测项目:   <名称>
 测试方法:   <步骤>
 预期结果:   <期望>
